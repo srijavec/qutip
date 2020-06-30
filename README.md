@@ -1,1 +1,1 @@
-# qutip
+# QuTiP
